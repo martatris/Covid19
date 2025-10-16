@@ -1,5 +1,5 @@
-COVID-19 Trend Dashboard (Advanced Version)
-===========================================
+COVID-19 Trend Dashboard
+========================
 
 An interactive and comprehensive dashboard built with Python, Pandas, Dash, and Plotly to visualize and analyze global COVID-19 data.
 This version includes additional visualizations such as interactive maps, bar charts, and scatter plots, along with dynamic data cards.
@@ -77,11 +77,7 @@ Future Enhancements
 - Dark mode and mobile-first design
 - Deploy via Render, Vercel, or Heroku
 
-License
--------
-This project is open-source under the MIT License.
-
 Author
 ------
 Triston Marta
-Data Science & Statistics Graduate
+Data Science and Statistics
