@@ -77,7 +77,7 @@ Future Enhancements
 - Dark mode and mobile-first design
 - Deploy via Render, Vercel, or Heroku
 
-Author
-------
-Triston Marta
-Data Science and Statistics
+👤 Author
+Developed by: Triston Aloyssius Marta
+📧 tristonmarta@yahoo.com.sg
+💼 Data Science and Statistics
